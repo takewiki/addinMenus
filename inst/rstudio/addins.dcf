@@ -63,4 +63,9 @@ Description: 注册Rstudio UI插件，写入inst-rstudio-addins.dcf文件.
 Binding: regAddinUI
 Interactive: false
 
+Name: 插入SELECT_SQLSERVER语句
+Description: 插件select语句生产引擎，用于生成符合T-SQL规范的查询语句.
+Binding: insert_select_engine_sqlserver
+Interactive: false
+
 

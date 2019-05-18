@@ -23,6 +23,7 @@ Collate:
     'insertInversePage.R'
     'insertLibraryEx.R'
     'insertPic.R'
+    'insert_select_engine_sqlserver.R'
     'install_bioConductor.R'
     'libraryEx.R'
     'regAddin.R'
